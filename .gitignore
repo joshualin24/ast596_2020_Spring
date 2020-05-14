@@ -7,8 +7,10 @@
 HLC*
 *hdf5
 homework/01/*png
+feedback/*
 
 *.DS_Store
+.DS_Store
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
